@@ -5,8 +5,9 @@ body {
 }
 
 body a {
-    color: #5ca4da;
+    color: #5cda82;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .bottom {
@@ -53,7 +54,7 @@ body a {
     text-decoration: none;
     font-size: 18px;
     line-height: 50px;
-    color: #5ca4da;
+    color: #5cda82;
     margin: 0 0 0 20px;
 }
 
